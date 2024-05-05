@@ -12,7 +12,7 @@
 
 ### Решение 1
 
-![Скрин](https://github.com/garrkiss/hw-02/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2018.04.24_20.05.24.png)
+![Скрин](https://github.com/garrkiss/hw-03/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B51.png)
 
 
 ### Задание 2
@@ -30,11 +30,6 @@
 ### Решение 2
 Решение в 3 задании
 
-
-![Скрин](https://github.com/garrkiss/hw-02/blob/main/img/image.png)
-![Скрин](https://github.com/garrkiss/hw-02/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2018.04.24_20.34.01.png)
-![Скрин](https://github.com/garrkiss/hw-02/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2018.04.24_20.36.58.png)
-
 ### Задание 3
 Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
 ### Процесс выполнения
@@ -46,6 +41,8 @@
 Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
 ### Решение 3
+![Скрин](https://github.com/garrkiss/hw-03/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B53.png)
+
 
 
 ### Задание 4
@@ -58,3 +55,6 @@
 
 ### Требования к результаты
 Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
+
+### Решение 4
+![Скрин](https://github.com/garrkiss/hw-03/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B54.png)
